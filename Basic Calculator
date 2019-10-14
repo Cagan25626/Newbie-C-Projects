@@ -1,0 +1,16 @@
+include <iostream>
+using namespace std;
+
+int main () {
+int num1; 
+int num2;
+
+cout << "Enter the first Number:";
+cin >> num1;
+cout << "Enter the second Number";
+cin >> num2;
+
+cout << num1 + num2;
+
+return 0;
+}
